@@ -1,3 +1,3 @@
 # test
-![](gg.gif)
+![](shell_test.gif)
 
